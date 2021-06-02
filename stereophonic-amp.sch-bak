@@ -481,7 +481,7 @@ U 1 1 60BB0AD6
 P 7450 3400
 F 0 "RV4" V 7243 3400 50  0000 C CNN
 F 1 "1K" V 7334 3400 50  0000 C CNN
-F 2 "Potentiometer_THT:Potentiometer_Piher_PT-15-V15_Vertical" H 7450 3400 50  0001 C CNN
+F 2 "Potentiometer_THT:Potentiometer_Piher_PT-10-V10_Vertical" H 7450 3400 50  0001 C CNN
 F 3 "~" H 7450 3400 50  0001 C CNN
 	1    7450 3400
 	0    -1   1    0   
@@ -640,7 +640,7 @@ U 1 1 60BCE6EF
 P 9600 4350
 F 0 "Q6" H 9790 4396 50  0000 L CNN
 F 1 "МП41А" H 9790 4305 50  0000 L CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical" H 9800 4450 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 9800 4450 50  0001 C CNN
 F 3 "~" H 9600 4350 50  0001 C CNN
 	1    9600 4350
 	1    0    0    -1  
@@ -756,7 +756,7 @@ U 1 1 60C454D8
 P 9100 2850
 F 0 "RV5" H 9031 2896 50  0000 R CNN
 F 1 "19K" H 9031 2805 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Piher_PT-15-V15_Vertical" H 9100 2850 50  0001 C CNN
+F 2 "Potentiometer_THT:Potentiometer_Piher_PT-10-V10_Vertical" H 9100 2850 50  0001 C CNN
 F 3 "~" H 9100 2850 50  0001 C CNN
 	1    9100 2850
 	1    0    0    -1  
@@ -871,7 +871,7 @@ U 1 1 60C87DF9
 P 11200 2350
 F 0 "Q9" H 11391 2396 50  0000 L CNN
 F 1 "П217Б" H 11391 2305 50  0000 L CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical" H 11400 2450 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 11400 2450 50  0001 C CNN
 F 3 "~" H 11200 2350 50  0001 C CNN
 	1    11200 2350
 	1    0    0    -1  
@@ -929,7 +929,7 @@ U 1 1 60CAD0EA
 P 11200 3650
 F 0 "Q10" H 11391 3696 50  0000 L CNN
 F 1 "П217Б" H 11391 3605 50  0000 L CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical" H 11400 3750 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 11400 3750 50  0001 C CNN
 F 3 "~" H 11200 3650 50  0001 C CNN
 	1    11200 3650
 	1    0    0    -1  
